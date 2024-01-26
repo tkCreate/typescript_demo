@@ -1,8 +1,5 @@
-var aaa;
-var bbb;
-var ccc;
-aaa = "zhangsan";
-bbb = "lisi";
-ccc = "wangwu";
-console.log(aaa + '234222242');
+//index.ts 文件
+import myModule from "./point.js";
+console.log(myModule.sum(3, 4));
+console.log(myModule.name);
 //# sourceMappingURL=test.js.map

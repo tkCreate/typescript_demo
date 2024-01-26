@@ -1,9 +1,4 @@
-var aaa: string;
-var bbb: string;
-var ccc: string;
-
-aaa = "zhangsan";
-bbb = "lisi";
-ccc = `wangwu`;
-
-console.log(aaa+'234222242');
+//index.ts 文件
+import myModule from "./point.js";
+console.log(myModule.sum(3,4))
+console.log(myModule.name)
