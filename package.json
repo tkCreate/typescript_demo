@@ -14,5 +14,14 @@
   },
   "dependencies": {
     "ts-node": "^10.9.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkCreate/typescript_demo.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/tkCreate/typescript_demo/issues"
+  },
+  "homepage": "https://github.com/tkCreate/typescript_demo#readme"
 }
