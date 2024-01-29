@@ -1,8 +1,5 @@
-//myModule.ts文件
-export default {
-    name: '井底的蜗牛',
-    sum(a, b) {
-        return a + b;
-    }
-};
+function greet(name) {
+    console.log(`Hello, ${name}!`);
+}
+export { greet };
 //# sourceMappingURL=point.js.map

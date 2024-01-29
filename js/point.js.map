@@ -1,1 +1,1 @@
-{"version":3,"file":"point.js","sourceRoot":"","sources":["../point.ts"],"names":[],"mappings":"AAAA,eAAe;AACf,eAAe;IACX,IAAI,EAAC,OAAO;IACZ,GAAG,CAAC,CAAQ,EAAC,CAAQ;QACjB,OAAO,CAAC,GAAC,CAAC,CAAA;IACd,CAAC;CACJ,CAAA"}
+{"version":3,"file":"point.js","sourceRoot":"","sources":["../point.ts"],"names":[],"mappings":"AAAA,SAAS,KAAK,CAAC,IAAY;IACvB,OAAO,CAAC,GAAG,CAAC,UAAU,IAAI,GAAG,CAAC,CAAC;AACnC,CAAC;AAED,OAAO,EAAC,KAAK,EAAC,CAAC"}
